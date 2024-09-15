@@ -26,8 +26,6 @@ Python versi 3.7 atau lebih tinggi.
 
     pip install -r requirements.txt  # Instal semua dependensi dari file requirements.txt
 
-# Panduan Penggunaan EmbedMatcher
-
 ## Langkah-langkah Menjalankan
 
 ### 1. Membuat Embedding dari PDF (Jalankan `prep.py`)
