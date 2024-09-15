@@ -51,8 +51,8 @@ def process_pdf(pdf_path, output_json_path):
     save_to_json(pages_with_embeddings, output_json_path)
 
 # Jalankan proses
-pdf_file_path = "nama_file.pdf"  # Ganti dengan path file PDF yang kamu upload
-output_json_path = "nama_file.json"  # Nama file output
+pdf_file_path = "replace_this_pdf_file_path.pdf"  # Ganti dengan path file PDF yang kamu upload
+output_json_path = "replace_this_output_json_path.json"  # Nama file output
 process_pdf(pdf_file_path, output_json_path)
 
 print(f"Hasil embedding disimpan dalam {output_json_path}")
