@@ -1,4 +1,4 @@
-# Text Embedding dan Pencocokan Similaritas
+# Text Embedding dan Pengecekan Similaritas
 
 Proyek ini mendemonstrasikan bagaimana mengekstrak embedding teks dari file PDF dan menemukan halaman dokumen yang paling relevan berdasarkan pertanyaan pengguna menggunakan cosine similarity. Proyek ini terdiri dari dua skrip utama: `prep.py` dan `main.py`.
 
